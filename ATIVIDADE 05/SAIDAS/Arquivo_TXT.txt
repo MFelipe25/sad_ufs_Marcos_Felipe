@@ -1,0 +1,302 @@
+dominio;documento;nome;uf;cidade;cep;data_cadastro;ultima_atualizacao
+premioconservacaoenergia.gov.br   ;000.001.180/0002-07;CENTRAIS ELETRICAS BRASILEIRAS SA                 ;RJ;Rio de Janeiro     ;20071-003;24/03/2009 20:07;15/04/2013 21:36
+bancocentral.gov.br               ;000.038.166/0001-05;Banco Central do Brasil                           ;DF;Brasília           ;70074-900;31/12/1998 00:24;17/06/2015 22:20
+selic.gov.br                      ;000.038.166/0010-98;Banco Central do Brasil                           ;RJ;Rio de Janeiro     ;20071-001;28/07/2010 12:18;30/03/2011 02:25
+museudoindio.gov.br               ;000.059.311/0002-07;Museu do Índio - Fundação Nacional do Índio       ;RJ;Rio de Janeiro     ;22270-070;23/10/2003 16:28;11/05/2016 12:47
+cprm-ma.gov.br                    ;000.091.652/0004-21;Companhia de Pesquisa de Recursos Minerais CPRM   ;AM;Manaus             ;69060-001;23/01/2001 12:07;30/12/2002 14:57
+cprmbh.gov.br                     ;000.091.652/0010-70;Companhia de Pesquisa de Recursos Minerais - CPRM ;MG;Belo Horizonte     ;30140-002;17/11/2000 14:03;06/08/2003 21:07
+eafrs.gov.br                      ;000.147.606/0001-54;Escola Agrotécnica Federal de Rio do Sul          ;SC;Rio do Sul         ;89160-000;29/05/2002 12:29;13/10/2011 21:38
+embrapa.gov.br                    ;000.348.003/0101-83;Empresa Brasileira de Pesquisa Agropecuaria       ;RR;Boa Vista          ;69301-970;09/06/2000 20:26;22/08/2003 10:38
+aeroshopping.gov.br               ;000.352.294/0001-10;INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA  ;DF;Brasília           ;70300-500;29/01/2002 18:45;09/01/2013 11:34
+amazonasenergia.gov.br            ;000.357.038/0001-16;Centrais Eletricas do Norte do Brasil             ;DF;Brasilia           ;70718-900;28/09/2001 20:14;16/10/2015 20:59
+coegv.gov.br                      ;000.357.038/0001-16;Centrais Eletricas do Norte do Brasil             ;DF;Brasilia           ;70718-900;12/11/1998 19:22;08/05/2008 14:13
+redefloresta.gov.br               ;000.357.038/0001-16;Centrais Eletricas do Norte do Brasil             ;DF;Brasilia           ;70718-900;05/03/2004 12:48;12/05/2010 11:22
+caixaeconomica.gov.br             ;000.360.305/0001-04;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70070-140;20/08/1997 12:00;16/07/2015 19:03
+caixapostal.gov.br                ;000.360.305/0001-04;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70070-140;23/11/1999 16:04;16/07/2015 19:40
+postal.gov.br                     ;000.360.305/0001-04;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70070-140;23/11/1999 16:04;16/07/2015 21:27
+cartelafederal.gov.br             ;000.360.305/0643-40;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;02/05/2000 13:26;16/07/2015 19:54
+supercaminhaodasorte.gov.br       ;000.360.305/0643-40;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;02/05/2000 13:26;16/07/2015 21:35
+caixavirtual.gov.br               ;000.360.305/0655-83;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;04/08/2000 21:17;16/07/2015 19:43
+mega-sena.gov.br                  ;000.360.305/0655-83;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;04/08/2000 21:17;16/07/2015 21:23
+caixaresolve.gov.br               ;000.360.305/0674-46;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;04/08/2000 20:46;16/07/2015 19:41
+guiafacilgps.gov.br               ;000.360.305/0674-46;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;04/08/2000 21:17;16/07/2015 21:06
+lojacaixa.gov.br                  ;000.360.305/0688-41;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;19/10/2004 18:53;16/07/2015 21:19
+shoppingcaixa.gov.br              ;000.360.305/0688-41;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;19/10/2004 18:53;16/07/2015 21:35
+trinka.gov.br                     ;000.360.305/0688-41;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;02/05/2000 13:26;16/07/2015 21:41
+dinheiroaqui.gov.br               ;000.360.305/2399-13;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;04/08/2000 21:17;16/07/2015 20:49
+loteriascaixa.gov.br              ;000.360.305/2399-13;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;04/08/2000 21:17;16/07/2015 21:21
+caixainveste.gov.br               ;000.360.305/2714-85;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;25/10/2001 19:55;16/07/2015 19:34
+ecobrancacaixa.gov.br             ;000.360.305/2714-85;CAIXA ECONOMICA FEDERAL                           ;DF;Brasília           ;70750-544;01/04/2002 18:33;18/12/2002 15:54
+incra.gov.br                      ;000.375.972/0002-41;INCRA/INSTITUTO NACIONAL DE COLON E REF. AGRARIA  ;DF;Brasilia           ;70040-903;12/07/1996 12:00;21/09/2004 18:21
+dnpm.gov.br                       ;000.381.056/0001-33;Departamento Nacional de Producao Mineral         ;DF;Brasília           ;70040-200;02/04/1997 12:00;04/02/2015 17:05
+bndespar.gov.br                   ;000.383.281/0001-09;BNDES Participações S/A                           ;RJ;Rio de Janeiro     ;20031-917;17/05/2006 17:29;11/11/2014 20:48
+brazilgovnews.gov.br              ;000.394.411/0001-09;PRESIDENCIA DA REPUBLICA                          ;DF;Brasília           ;70150-900;25/07/2016 13:15;25/07/2016 13:15
+confiancanobrasil.gov.br          ;000.394.411/0001-09;PRESIDENCIA DA REPUBLICA                          ;DF;Brasília           ;70150-900;26/12/2008 12:22;26/12/2008 12:22
+govbrasil.gov.br                  ;000.394.411/0001-09;PRESIDENCIA DA REPUBLICA                          ;DF;Brasília           ;70150-900;26/08/2013 12:54;26/08/2013 12:54
+observatoriodegenero.gov.br       ;000.394.411/0001-09;PRESIDENCIA DA REPUBLICA                          ;DF;Brasília           ;70150-900;22/01/2009 10:18;22/01/2009 10:18
+presidenciadarepublica.gov.br     ;000.394.411/0001-09;PRESIDENCIA DA REPUBLICA                          ;DF;Brasília           ;70150-900;11/05/2000 21:20;29/03/2006 18:27
+splp.gov.br                       ;000.394.411/0001-09;PRESIDENCIA DA REPUBLICA                          ;DF;Brasília           ;70150-900;16/07/2007 13:37;16/07/2007 13:37
+cgna.gov.br                       ;000.394.429/0048-74;Departamento de Controle do Espaço Aéreo          ;RJ;Rio de Janeiro     ;20021-130;26/12/2001 18:40;14/09/2015 17:29
+cindacta2.gov.br                  ;000.394.429/0055-01;Segundo Centro Integrado de Contr. Trafego Aéreo  ;PR;Curitiba           ;82510-901;28/07/2010 11:05;04/06/2014 00:30
+dtceagw.gov.br                    ;000.394.429/0094-00;Comando da Aeronautica - SRPV-SP                  ;SP;São Paulo          ;04626-911;30/09/2009 13:51;01/10/2015 17:55
+dtceast.gov.br                    ;000.394.429/0094-00;Comando da Aeronautica - SRPV-SP                  ;SP;São Paulo          ;04626-911;30/09/2009 13:36;01/10/2015 18:08
+fab.gov.br                        ;000.394.429/0122-06;Centro de Computação da Aeronáutica de Brasília   ;DF;Brasília           ;70045-900;05/02/2003 12:48;04/02/2014 15:56
+gesac.gov.br                      ;000.394.437/0001-57;Ministério das Comunicações                       ;DF;Brasília           ;70044-900;19/11/2003 19:09;25/03/2015 13:00
+dominiopublico.gov.br             ;000.394.445/0003-65;Ministério da Educação                            ;DF;Brasília           ;70047-900;28/10/2004 19:29;23/01/2014 12:08
+mec.gov.br                        ;000.394.445/0139-39;Ministério da Educação                            ;DF;Brasília           ;70047-900;14/12/1995 12:00;23/01/2014 11:54
+proinfo.gov.br                    ;000.394.445/0540-23;Ministério da Educação                            ;DF;Brasília           ;70047-090;01/07/1998 21:35;23/01/2014 12:08
+casadoscontos.gov.br              ;000.394.460/0263-70;Centro Regional de Treinamento ESAF               ;MG;Belo Horizonte     ;30320-400;20/09/2001 14:11;14/11/2009 14:18
+brasilmaior.gov.br                ;000.394.478/0002-24;MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI;DF;Brasília           ;70053-900;03/08/2011 13:43;10/05/2013 19:22
+comexbrazil.gov.br                ;000.394.478/0002-24;MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI;DF;Brasília           ;70053-900;04/07/2011 13:06;10/05/2013 19:23
+exportabrasil.gov.br              ;000.394.478/0002-24;MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI;DF;Brasília           ;70053-900;23/11/2001 15:48;15/02/2013 16:52
+manufaturaavancada.gov.br         ;000.394.478/0002-24;MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI;DF;Brasília           ;70053-900;21/07/2016 17:25;21/07/2016 17:25
+portaldoempreendedor.gov.br       ;000.394.478/0002-24;MINISTÉRIO DA INDUSTRIA, COMERCIO EXTERIOR E SERVI;DF;Brasília           ;70053-900;30/06/2009 13:50;05/02/2010 19:41
+portaldaexportacao.gov.br         ;000.394.478/0003-05;Ministério do Desenvolvimento                     ;DF;Brasília           ;70053-900;02/01/2002 17:49;15/02/2013 15:37
+senasp.gov.br                     ;000.394.494/0005-60;Secretaria Nacional de Segurança Pública          ;DF;Brasília           ;70064-900;13/05/2010 13:32;28/10/2015 10:40
+crimecongress2010.gov.br          ;000.394.494/0013-70;MINISTERIO DA JUSTICA                             ;DF;Brasília           ;70064-900;02/10/2009 19:40;04/04/2013 14:37
+entreguesuaarma.gov.br            ;000.394.494/0013-70;MINISTERIO DA JUSTICA                             ;DF;Brasília           ;70064-900;03/05/2011 12:52;04/04/2013 14:37
+pronasci.gov.br                   ;000.394.494/0013-70;MINISTERIO DA JUSTICA                             ;DF;Brasília           ;70064-900;26/08/2009 20:22;04/04/2013 14:38
+traficodepessoas.gov.br           ;000.394.494/0013-70;MINISTERIO DA JUSTICA                             ;DF;Brasília           ;70064-900;11/06/2013 11:56;11/06/2013 11:56
+dpf-ce.gov.br                     ;000.394.494/0023-41;SUPER. REGIONAL DA POLICIA FEDERAL NO CEARÁ       ;CE;Fortaleza          ;60415-430;23/02/1997 12:00;24/03/2004 14:19
+dprf.gov.br                       ;000.394.494/0104-41;Departamento de Polícia Rodoviária Federal        ;DF;Brasília           ;70610-200;05/10/1998 12:29;02/02/2016 11:36
+mpas.gov.br                       ;000.394.528/0008-69;Ministerio da Previdencia e Assistencia Social    ;DF;Brasília           ;70059-900;20/03/1996 12:00;27/07/2008 18:46
+itamaraty.gov.br                  ;000.394.536/0006-43;MINISTERIO DAS RELACOES EXTERIORES                ;DF;Brasília           ;70170-900;12/02/1999 11:00;10/09/2014 00:03
+brasilglobalnet.gov.br            ;000.394.536/0009-96;Min. Relações Exteriores Depto Promoção Comercial ;DF;Brasília           ;70170-900;29/12/2010 12:59;10/07/2014 14:21
+btig.gov.br                       ;000.394.536/0009-96;Min. Relações Exteriores Depto Promoção Comercial ;DF;Brasília           ;70170-900;06/05/2013 15:12;10/07/2014 14:19
+comex.gov.br                      ;000.394.536/0009-96;Min. Relações Exteriores Depto Promoção Comercial ;DF;Brasília           ;70170-900;22/08/2007 18:21;10/07/2014 14:16
+promocaocomercial.gov.br          ;000.394.536/0009-96;Min. Relações Exteriores Depto Promoção Comercial ;DF;Brasília           ;70170-900;27/06/2012 14:17;10/07/2014 14:16
+pcdl.gov.br                       ;000.394.536/0016-15;Primeira Comissao Brasileira Demarcadora de Limite;PA;Belem              ;66035-100;03/09/2002 11:55;03/09/2002 12:00
+conitec.gov.br                    ;000.394.544/0008-51;MINISTERIO DA SAUDE                               ;DF;Brasília           ;70058-900;06/10/2014 14:47;06/06/2016 13:42
+iec.gov.br                        ;000.394.544/0025-52;FNS - Instituto Evandro Chagas                    ;PA;Ananindeua         ;67030-000;14/10/2013 14:42;04/12/2013 18:33
+hgb.gov.br                        ;000.394.544/0202-91;Hospital Geral de Bonsucesso                      ;RJ;Rio de Janeiro     ;21041-030;25/05/1999 14:09;06/03/2001 12:03
+itaipu.gov.br                     ;000.395.988/0014-50;ITAIPU BINACIONAL                                 ;PR;Foz do Iguaçu      ;85866-900;15/10/1996 11:00;09/10/2014 19:33
+lapa-pe.gov.br                    ;000.396.895/0021-79;Ministério da Agricultura - DFA - Lapa - Recife   ;PE;Recife             ;52171-030;27/03/2001 17:19;27/03/2001 14:19
+pronaf.gov.br                     ;000.396.895/0069-13;Ministerio do Desenvolvimento Agrario             ;DF;Brasília           ;70057-900;19/03/1998 17:52;08/06/2015 22:28
+cnenpc.gov.br                     ;000.402.552/0007-11;COMISSÃO NACIONAL DE ENERGIA NUCLEAR              ;MG;Poços de Caldas    ;37719-005;26/03/2001 12:28;11/02/2015 12:33
+fiscalizacaorio2016.gov.br        ;000.414.607/0001-18;Tribunal de Contas da União                       ;DF;Brasília           ;70042-900;27/11/2013 16:58;27/11/2013 16:58
+governancapublica.gov.br          ;000.414.607/0001-18;Tribunal de Contas da União                       ;DF;Brasília           ;70042-900;12/08/2014 18:30;10/09/2014 19:50
+seminariobrasildigital.gov.br     ;000.414.607/0001-18;Tribunal de Contas da União                       ;DF;Brasília           ;70042-900;02/03/2015 19:51;02/03/2015 19:51
+rpp.gov.br                        ;000.422.744/0001-02;Fundação de Amparo a Pesquisa do Estado do Piauí  ;PI;Teresina           ;64018-200;08/05/1998 18:23;09/02/2001 20:58
+e-jud.gov.br                      ;000.488.478/0001-02;SUPERIOR TRIBUNAL DE JUSTICA                      ;DF;Brasília           ;70095-900;11/05/2004 12:04;03/11/2015 18:02
+unijus.gov.br                     ;000.488.478/0001-02;SUPERIOR TRIBUNAL DE JUSTICA                      ;DF;Brasília           ;70095-900;26/09/2006 17:47;11/02/2016 13:26
+colabora.gov.br                   ;000.489.828/0001-55;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;05/01/2015 13:06;05/01/2015 13:06
+desafios.gov.br                   ;000.489.828/0001-55;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;28/07/2015 11:40;28/07/2015 11:40
+inclusaodigital.gov.br            ;000.489.828/0001-55;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;05/08/2005 20:10;22/01/2014 17:27
+mp.gov.br                         ;000.489.828/0001-55;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;20/08/1999 11:50;22/01/2014 17:27
+pesquisa.gov.br                   ;000.489.828/0001-55;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;28/07/2015 11:40;28/07/2015 11:40
+recadastramento.gov.br            ;000.489.828/0001-55;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;18/02/2013 10:59;13/02/2015 13:12
+sispac.gov.br                     ;000.489.828/0001-55;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;30/08/2011 18:34;22/01/2014 17:29
+xn--notcias-9ya.gov.br            ;000.489.828/0001-55;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;26/03/2013 12:27;22/01/2014 17:28
+projetobrasilmunicipios.gov.br    ;000.489.828/0003-17;Ministerio do Planejamento Orçamento e Gestão     ;DF;Brasília           ;70046-900;04/02/2009 10:56;22/01/2014 17:35
+pbqp-h.gov.br                     ;000.489.828/0006-60;Ministério das Cidades                            ;DF;Brasília           ;70070-010;04/06/1998 16:41;24/09/2014 17:34
+patrimoniodetodos.gov.br          ;000.489.828/0009-02;Secretaria do Patromônio da União                 ;DF;Brasília           ;70046-900;30/09/2009 11:01;02/02/2010 11:43
+jf.gov.br                         ;000.508.903/0001-88;CONSELHO DA JUSTICA FEDERAL                       ;DF;Brasília           ;70200-003;07/01/2005 10:29;25/03/2014 13:12
+jfse.gov.br                       ;000.508.903/0018-26;Justica Federal - Secao Judiciaria do Estado de SE;SE;Aracaju            ;49080-902;12/01/1999 20:17;20/06/2016 14:18
+eleicoes.gov.br                   ;000.509.018/0001-13;Tribunal Superior Eleitoral                       ;DF;Brasília           ;70096-900;02/08/2001 18:49;02/10/2013 17:06
+tre-ba.gov.br                     ;000.509.018/0004-66;Tribunal Regional Eleitoral da Bahia              ;BA;Salvador           ;40237-900;24/07/1998 20:05;08/01/2015 21:05
+tre-ma.gov.br                     ;000.509.018/0009-70;Tribunal Regional Eleitoral do Maranhão           ;MA;São Luís           ;65010-917;31/08/1998 13:27;08/01/2015 21:11
+tre-pi.gov.br                     ;000.509.018/0016-08;Tribunal Regional Eleitoral do Piauí              ;PI;Teresína           ;64000-830;12/08/1998 13:39;08/01/2015 21:14
+tre-sp.gov.br                     ;000.509.018/0021-67;Tribunal Regional Eleitoral de São Paulo          ;SP;São Paulo          ;01316-900;07/08/1998 15:04;23/09/2015 16:41
+tre-rr.gov.br                     ;000.509.018/0026-71;Tribunal Regional Eleitoral de Roraima            ;RR;Boa Vista          ;69301-380;05/08/1998 19:21;08/01/2015 21:17
+justicadotrabalho.gov.br          ;000.509.968/0001-48;TRIBUNAL SUPERIOR DO TRABALHO                     ;DF;Brasília           ;70070-943;23/03/2001 12:50;04/03/2015 19:06
+trt05.gov.br                      ;000.509.968/0006-52;TRIBUNAL REGIONAL DO TRABALHO DA 5A. REGIAO       ;BA;Salvador           ;40055-010;13/11/1997 11:00;04/11/2015 13:33
+trt13.gov.br                      ;000.509.968/0014-62;Tribunal regional do Trabalho 13 Regiao           ;PB;João Pessoa        ;58013-260;16/01/1998 12:25;14/05/2013 17:22
+cidadania.gov.br                  ;000.530.279/0004-68;SENADO FEDERAL                                    ;DF;Brasília           ;70165-900;25/10/2000 12:50;22/01/2014 15:58
+senado.gov.br                     ;000.530.279/0004-68;SENADO FEDERAL                                    ;DF;Brasília           ;70165-900;01/01/1996 12:00;05/02/2016 15:53
+transparencianacopa.gov.br        ;000.530.279/0004-68;SENADO FEDERAL                                    ;DF;Brasília           ;70165-900;12/07/2011 16:17;24/01/2014 20:06
+camaradosdeputados.gov.br         ;000.530.352/0001-59;Camara dos Deputados                              ;DF;Brasília           ;70160-900;27/05/2005 11:43;08/06/2015 19:42
+plenarinho.gov.br                 ;000.530.352/0001-59;Camara dos Deputados                              ;DF;Brasília           ;70160-900;22/09/2003 13:17;11/06/2015 14:00
+cortesmercosul.gov.br             ;000.531.640/0001-28;SUPREMO TRIBUNAL FEDERAL                          ;DF;Brasília           ;70175-900;30/10/2007 15:48;08/10/2014 15:29
+radiojustica.gov.br               ;000.531.640/0001-28;SUPREMO TRIBUNAL FEDERAL                          ;DF;Brasília           ;70175-900;15/03/2004 11:50;08/10/2014 15:33
+stfnet.gov.br                     ;000.531.640/0001-28;SUPREMO TRIBUNAL FEDERAL                          ;DF;Brasília           ;70175-900;17/03/1999 19:20;08/10/2014 15:34
+enap.gov.br                       ;000.627.612/0001-09;Escola Nacional de Administração Pública - ENAP   ;DF;Brasília           ;70610-900;10/09/1997 12:00;06/07/2016 13:34
+oconsumidor.gov.br                ;000.662.270/0003-20;INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECN;RJ;Rio de Janeiro     ;20261-232;30/10/2000 16:12;20/05/2015 12:18
+rbmlq.gov.br                      ;000.662.270/0009-15;INMETRO INSTITUTO NAC DE METROL NORM E QUAL INDUST;RS;Porto Alegre       ;90240-581;16/12/2010 11:40;16/12/2010 11:40
+eafsrbonfim.gov.br                ;000.853.966/0001-71;Escola Agrotecnica Federal de Senhor do Bonfim    ;BA;Senhor do Bonfim   ;48970-000;24/06/1999 13:57;12/10/2007 14:17
+vicepresidenciadarepublica.gov.br ;000.894.355/0001-71;VICE PRESIDENCIA DA REPUBLICA                     ;DF;Brasilia           ;70150-900;10/04/2000 16:46;10/07/2007 23:18
+cin-sci.gov.br                    ;001.175.497/0001-41;Agencia Brasileira de Inteligencia                ;DF;Brasília           ;70610-200;03/10/1995 12:00;18/11/2014 13:14
+orint.gov.br                      ;001.175.497/0001-41;Agencia Brasileira de Inteligencia                ;DF;Brasília           ;70610-200;02/12/1999 19:22;18/11/2014 13:19
+mct.gov.br                        ;001.263.896/0003-26;Ministério da Ciência, Tecnologia e Inovação      ;DF;Brasília           ;70067-900;01/01/1996 12:00;22/01/2016 20:08
+inpa.gov.br                       ;001.263.896/0015-60;INSTITUTO NACIONAL DE PESQUISAS DA AMAZONIA       ;AM;Manaus             ;69067-375;28/07/1997 12:00;21/05/2013 14:23
+brasilia2010.gov.br               ;001.264.142/0002-00;Ministério da Cultura                             ;DF;Brasília           ;70308-200;02/02/2010 15:56;04/07/2014 11:03
+mincrj.gov.br                     ;001.264.142/0002-00;Ministério da Cultura                             ;DF;Brasília           ;70308-200;06/08/1998 16:57;21/03/2013 19:26
+vivaleitura.gov.br                ;001.264.142/0002-00;Ministério da Cultura                             ;DF;Brasília           ;70308-200;20/12/2004 17:56;07/01/2015 17:04
+trt20.gov.br                      ;001.445.033/0001-08;TRIBUNAL REGIONAL DO TRABALHO DA 20A. REGIAO      ;SE;Aracaju            ;49080-190;06/12/1997 11:00;13/09/2007 13:51
+aiaf2014.gov.br                   ;001.612.452/0001-97;Ministerio do Desenvolvimento Agrario             ;DF;Brasília           ;70054-900;18/02/2014 14:41;08/06/2015 22:26
+condraf.gov.br                    ;001.612.452/0001-97;Ministerio do Desenvolvimento Agrario             ;DF;Brasília           ;70054-900;01/06/2016 19:43;01/06/2016 19:43
+emdiacomopronaf.gov.br            ;001.612.452/0001-97;Ministerio do Desenvolvimento Agrario             ;DF;Brasília           ;70054-900;28/10/2015 14:10;28/10/2015 14:39
+territoriosdacidadania.gov.br     ;001.612.452/0001-97;Ministerio do Desenvolvimento Agrario             ;DF;Brasília           ;70054-900;19/02/2008 19:56;24/02/2015 21:27
+saemec.gov.br                     ;001.678.363/0001-43;INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIO;DF;Brasília           ;70340-909;13/10/1998 19:10;25/11/1998 12:00
+cgtee.gov.br                      ;002.016.507/0004-01;Companhia de Geração Termica de Energia Eletrica  ;RS;Porto Alegre       ;90010-190;11/07/2000 13:28;14/09/2013 15:23
+mpes.gov.br                       ;002.304.470/0001-74;Ministério Público do Estado do Espírito Santo    ;ES;Vitória            ;29050-265;14/09/2001 16:51;28/01/2010 20:20
+brazilrounds.gov.br               ;002.313.673/0002-08;Agência Nacional do Petróleo, Gás Natural e Bioco.;RJ;Rio de Janeiro     ;20090-004;10/10/2000 17:47;18/08/2015 11:57
+crbio01.gov.br                    ;002.366.047/0001-07;Conselho Regional de Biologia                     ;SP;São Paulo          ;04001-083;22/01/2009 10:18;17/02/2015 03:12
+tecnojusc.gov.br                  ;002.482.005/0001-23;TRIBUNAL REGIONAL DO TRABALHO 12 REGIAO           ;SC;Florianópolis      ;88015-905;20/08/2001 18:42;18/11/2003 11:41
+trt4.gov.br                       ;002.520.619/0001-52;Tribunal Regional do Trabalho da 4 Regiao         ;RS;Porto Alegre       ;90110-903;15/05/1997 12:00;22/03/2014 23:06
+bid2002brasil.gov.br              ;002.927.863/0001-34;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;14/11/2001 17:57;22/01/2014 17:32
+infra-estruturabrasil.gov.br      ;002.927.863/0001-34;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;01/09/2000 15:25;22/01/2014 17:32
+planejamento.gov.br               ;002.927.863/0001-34;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;28/10/1999 18:51;14/07/2015 13:46
+redesocial.gov.br                 ;002.927.863/0001-34;Ministerio do Planejamento, Orcamento e Gestao    ;DF;Brasília           ;70046-900;25/06/2001 19:13;22/01/2014 17:34
+brasil2016.gov.br                 ;002.961.362/0001-74;ME - Ministerio do Esporte                        ;DF;Brasília           ;70610-440;23/10/2013 13:42;23/10/2013 13:42
+portaldacopa.gov.br               ;002.961.362/0001-74;ME - Ministerio do Esporte                        ;DF;Brasília           ;70610-440;09/11/2011 12:25;03/07/2014 13:10
+profae.gov.br                     ;003.009.608/0001-75;Secretaria de Gestão de Investimentos em Saúde    ;DF;Brasília           ;70058-900;21/11/2001 17:47;01/02/2006 20:10
+ctlivre.gov.br                    ;003.132.745/0001-00;Ministério da Ciência e Tecnologia                ;DF;Brasília           ;70067-900;16/11/2004 10:22;04/02/2013 17:38
+brasilcentral.gov.br              ;003.230.476/0001-07;Sec. de Estado de Plan. e Orçamento do DF         ;DF;Brasília           ;70620-000;16/09/2015 19:09;16/09/2015 19:09
+trt-02.gov.br                     ;003.241.738/0001-39;Tribunal Regional do Trabalho da 2a Regiao        ;SP;São Paulo          ;01139-001;11/06/1999 19:34;15/02/2016 21:12
+trtwap.gov.br                     ;003.241.738/0001-39;Tribunal Regional do Trabalho da 2a Regiao        ;SP;São Paulo          ;01139-001;25/10/2000 12:50;15/02/2016 21:16
+integracao.gov.br                 ;003.353.358/0001-96;MINISTERIO DA INTEGRACAO NACIONAL                 ;DF;Brasília           ;70067-901;16/02/2000 17:16;25/09/2013 17:50
+go.gov.br                         ;003.517.631/0001-70;Secretaria de Gestão e Planejamento de Goiás      ;GO;Goiânia            ;74115-030;18/06/1996 12:00;04/08/2015 17:50
+saudesuplementar.gov.br           ;003.589.068/0001-46;Agencia Nacional de Saude Suplementar             ;RJ;Rio de Janeiro     ;20021-040;08/08/2000 19:33;13/07/2004 14:13
+ibama.gov.br                      ;003.659.166/0001-02;INSTITUTO BRASILEIRO DO MEIO AMBIENTE             ;DF;Brasilia           ;70818-900;01/01/1996 12:00;31/03/2006 22:35
+cref-sp.gov.br                    ;003.676.803/0001-59;Conselho Regional de Educação Física do Est.de SP.;SP;São Paulo          ;01009-000;09/10/2008 16:11;06/08/2016 03:54
+ce.gov.br                         ;003.773.788/0001-67;EMPRESA DE TECNOLOGIA DA INFORMACAO DO CEARA-ETICE;CE;Fortaleza          ;60130-240;27/05/1996 12:00;18/01/2013 12:21
+ac.gov.br                         ;004.034.468/0001-58;SECRETARIA DE ESTADO DA GESTAO ADMINISTRATIVA - SG;AC;Rio Branco         ;69900-060;21/10/1998 11:00;28/06/2016 17:46
+crbio-03.gov.br                   ;004.053.157/0001-36;Conselho Regional de Biologia - 3a. Região        ;RS;Porto Alegre       ;90460-210;29/01/2009 17:24;29/01/2009 17:24
+crbio3.gov.br                     ;004.053.157/0001-36;Conselho Regional de Biologia - 3a. Região        ;RS;Porto Alegre       ;90460-210;29/01/2009 17:39;29/01/2009 17:39
+biodiesel.gov.br                  ;004.082.993/0001-49;IBICT - MCTI                                      ;DF;Brasília           ;70070-912;04/02/2005 10:33;05/08/2014 23:15
+ana.gov.br                        ;004.204.444/0001-08;Agência Nacional de Águas                         ;DF;Brasília           ;70610-200;20/03/2001 21:24;19/10/2012 20:11
+dom.gov.br                        ;004.224.785/0001-37;Projeto Dom Helder Câmara                         ;PE;Recife             ;50070-490;14/07/2003 14:45;04/06/2013 13:08
+conarq.gov.br                     ;004.374.067/0001-47;Arquivo Nacional                                  ;RJ;Rio de Janeiro     ;20230-170;06/09/2011 12:42;21/05/2015 20:19
+aleam.gov.br                      ;004.530.820/0001-46;ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS      ;AM;MANAUS             ;69005-140;13/11/2000 17:30;13/11/2000 15:30
+crmvpaap.gov.br                   ;004.798.070/0001-98;Conselho Regional de Medicina Veterinaria Para    ;PA;Belém              ;66063-090;06/02/2001 19:19;07/11/2012 14:27
+ci-brasil.gov.br                  ;004.822.500/0001-60;Centro de Tecnologia da Informação Renato Archer  ;SP;Campinas           ;13069-901;05/12/2007 18:49;08/01/2015 12:17
+antt.gov.br                       ;004.898.488/0001-77;Agência Nacional de Transportes Terrestres        ;DF;Brasília           ;70200-003;15/04/2002 11:34;31/01/2014 13:14
+comiteamazonia.gov.br             ;004.931.713/0001-20;Superintedência de Denvolvimento da Amazônia      ;PA;Belém              ;66093-020;24/10/2000 11:17;19/11/2002 20:19
+cft.gov.br                        ;005.032.746/0001-09;Conselho de Teologos do Brasil - Coteb            ;RJ;Rio de Janeiro     ;20230-014;27/09/2011 18:22;27/09/2011 18:22
+adene.gov.br                      ;005.193.279/0001-90;Agência de Desenvolvimento do Nordeste            ;PE;Recife             ;50670-900;23/08/2002 20:19;01/12/2005 20:37
+jfsc.gov.br                       ;005.427.319/0001-11;Justica Federal de Primeiro Grau em Santa Catarina;SC;Florianópolis      ;88025-255;27/01/2000 13:13;16/10/2014 23:50
+jef-pr.gov.br                     ;005.442.380/0001-38;Justica Federal de Primeiro Grau no RS            ;RS;Porto Alegre       ;90010-395;05/08/2003 12:07;24/04/2012 14:56
+sjrs.gov.br                       ;005.442.380/0001-38;Justica Federal de Primeiro Grau no RS            ;RS;Porto Alegre       ;90010-395;26/10/1998 17:07;24/09/2013 21:48
+simulaminhacasaminhavida.gov.br   ;005.465.986/0001-99;Ministério das Cidades                            ;DF;Brasília           ;70070-010;11/02/2016 18:48;11/02/2016 18:48
+desaparecidos.gov.br              ;005.478.625/0001-87;Secretaria de Direitos Humanos                    ;DF;Brasília           ;70308-200;14/02/2012 09:55;22/03/2013 20:44
+obscriancaeadolescente.gov.br     ;005.478.625/0001-87;Secretaria de Direitos Humanos                    ;DF;Brasília           ;70308-200;11/05/2010 19:47;13/01/2015 12:48
+sedh.gov.br                       ;005.478.625/0001-87;Secretaria de Direitos Humanos                    ;DF;Brasília           ;70308-200;17/07/2003 11:07;30/03/2015 18:31
+pescabrasil.gov.br                ;005.482.692/0001-75;Ministério da Agricultura, Pecuaria e Abasteciment;DF;Brasília           ;70043-900;26/03/2003 18:06;19/12/2012 10:00
+politicasmulheres.gov.br          ;005.510.958/0001-46;Secretaria Especial de Politícas para as Mulheres ;DF;BRASILIA           ;70064-900;13/01/2010 14:04;22/09/2014 17:07
+brasilsaudavelesustentavel.gov.br ;005.756.246/0001-01;DTI/SE/MDS E COMBATE A FOME                       ;DF;Brasília           ;70770-502;29/04/2015 19:03;29/04/2015 19:03
+desenvolvimentosocial.gov.br      ;005.756.246/0001-01;DTI/SE/MDS E COMBATE A FOME                       ;DF;Brasília           ;70770-502;23/03/2004 15:06;13/06/2014 13:28
+acessoinformacao.gov.br           ;005.914.685/0001-03;CONTROLADORIA-GERAL DA UNIÃO                      ;DF;Brasília           ;70070-905;09/03/2012 13:11;15/04/2016 19:05
+e-sic.gov.br                      ;005.914.685/0001-03;CONTROLADORIA-GERAL DA UNIÃO                      ;DF;Brasília           ;70070-905;08/04/2014 18:09;15/04/2016 19:06
+lai.gov.br                        ;005.914.685/0001-03;CONTROLADORIA-GERAL DA UNIÃO                      ;DF;Brasília           ;70070-905;08/04/2014 19:15;15/04/2016 19:07
+sic.gov.br                        ;005.914.685/0001-03;CONTROLADORIA-GERAL DA UNIÃO                      ;DF;Brasília           ;70070-905;08/04/2014 19:15;15/04/2016 19:07
+creciro.gov.br                    ;005.968.813/0001-93;CONSELHO REGIONAL DE CORRETORES DE IMOVEIS 24 REG ;RO;Porto Velho        ;76803-749;24/02/2015 14:42;11/05/2016 14:51
+pe.gov.br                         ;006.067.608/0001-10;AGENCIA ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI;PE;Recife             ;50020-080;10/07/1996 12:00;08/02/2007 13:58
+ahimoc.gov.br                     ;006.347.892/0004-20;Admin. das Hidrovias da Amazonia Ocidental        ;AM;Manaus             ;69005-370;18/01/2012 13:59;21/03/2012 01:23
+banconordeste.gov.br              ;007.237.373/0001-20;BANCO DO NORDESTE DO BRASIL S/A                   ;CE;Fortaleza          ;60740-000;09/02/1998 12:03;01/07/2016 14:44
+nordestedigital.gov.br            ;007.237.373/0001-20;BANCO DO NORDESTE DO BRASIL S/A                   ;CE;Fortaleza          ;60740-000;19/11/2001 18:18;01/07/2016 14:57
+cnj.gov.br                        ;007.421.906/0001-29;Conselho Nacional de Justiça                      ;DF;Brasília           ;70760-542;20/04/2005 14:56;05/02/2015 17:44
+corenpb.gov.br                    ;007.647.181/0001-91;CONSELHO REGIONAL DE ENFERMAGEM DA PARAIBA        ;PB;João Pessoa        ;58013-470;30/06/2009 13:50;14/06/2016 13:50
+crbio7.gov.br                     ;007.863.214/0001-30;conselho regional de biologia da setima região    ;PR;Curitiba           ;80020-020;15/05/2009 16:23;21/03/2012 19:42
+crefono8.gov.br                   ;008.077.490/0001-36;Conselho Regional de Fonoaudiologia 8a Regiao     ;CE;Fortaleza          ;60170-000;26/10/2011 10:28;28/10/2011 11:33
+tjrn.gov.br                       ;008.546.459/0001-05;TRIBUNAL DE JUSTIÇA DO ESTADO DO RN               ;RN;Natal              ;59025-300;09/04/1999 20:20;27/12/2012 11:24
+icmbio.gov.br                     ;008.829.974/0001-94;INSTITUTO CHICO MENDES DE CONS. DA BIODIVERSIDADE ;DF;Brasília           ;70670-350;29/08/2007 18:31;19/04/2013 12:32
+avozdobrasil.gov.br               ;009.168.704/0001-42;EMPRESA BRASIL DE COMUNICACAO S.A. - EBC          ;DF;Brasília           ;70333-900;18/01/2016 13:07;18/01/2016 13:07
+vozdobrasil.gov.br                ;009.168.704/0001-42;EMPRESA BRASIL DE COMUNICACAO S.A. - EBC          ;DF;Brasília           ;70333-900;18/01/2016 13:07;18/01/2016 13:07
+confecom.gov.br                   ;009.234.494/0001-43;Secretaria de Comunicação Social                  ;DF;Brasília           ;70054-906;23/10/2009 20:58;22/09/2014 17:05
+cop15brazil.gov.br                ;009.234.494/0001-43;Secretaria de Comunicação Social                  ;DF;Brasília           ;70054-906;19/11/2009 17:31;22/09/2014 17:06
+portalpadrao.gov.br               ;009.234.494/0001-43;Secretaria de Comunicação Social                  ;DF;Brasília           ;70054-906;18/09/2014 11:26;10/05/2016 21:01
+creci-pb.gov.br                   ;009.292.194/0001-10;Conselho Regional de Corretores de Imóveis 21ª Reg;PB;João Pessoa        ;58013-120;01/10/2002 20:16;21/05/2016 02:21
+fundaj.gov.br                     ;009.773.169/0001-59;FUNDACAO JOAQUIM NABUCO                           ;PE;Recife             ;52071-440;30/06/1995 12:00;31/01/2015 19:04
+participe.gov.br                  ;010.366.249/0001-79;SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA ;DF;Brasília           ;70150-900;16/10/2013 18:38;16/10/2013 18:38
+secretariageral.gov.br            ;010.366.249/0001-79;SECRETARIA DE GOVERNO DA PRESIDENCIA DA REPUBLICA ;DF;Brasília           ;70150-900;13/01/2010 14:04;02/05/2016 14:56
+crtr18.gov.br                     ;010.765.721/0001-46;CONSELHO REG DOS TECN EM RADIOLOGIA 18 REGIAO     ;RO;Porto Velho        ;76820-179;29/03/2012 14:12;29/03/2012 14:12
+museulasarsegall.gov.br           ;010.898.596/0001-42;Instituto Brasileiro de Museus - IBRAM            ;DF;Brasília           ;70040-020;27/07/2010 19:37;03/09/2012 18:39
+museudebiologiamelloleitao.gov.br ;010.898.596/0010-33;MUSEU DE BIOLOGIA PROFESSOR MELLO LEITAO          ;ES;Santa Teresa       ;29650-000;06/09/2011 13:38;26/02/2016 13:30
+cnmp.gov.br                       ;011.439.520/0001-11;CONSELHO NACIONAL DO MINISTERIO PUBLICO           ;DF;Brasília           ;70070-600;14/07/2005 12:39;29/03/2015 22:07
+crtr19.gov.br                     ;011.899.162/0001-20;CONSELHO REGIONAL DE TECNICOS EM RADIOLOGIA 19    ;AM;Manaus             ;69053-520;15/06/2011 19:17;07/01/2013 12:02
+crecise.gov.br                    ;013.171.970/0001-00;CONSELHO REGIONAL CORRETORES DE IMOVEIS 16 REGIAO ;SE;Aracaju            ;49015-250;04/11/2015 12:22;30/11/2015 15:49
+crbm5.gov.br                      ;013.738.204/0001-76;Conselho Regional de Biomedicina 5ª Região        ;RS;Porto Alegre       ;90230-091;25/03/2013 12:18;25/03/2013 12:18
+ahsfra.gov.br                     ;014.372.148/0005-95;Administração da Hidrovia do São Francisco        ;MG;Pirapora           ;39270-000;29/07/2002 14:12;08/09/2010 19:59
+cauap.gov.br                      ;014.702.767/0001-77;Conselho de Arquitetura e Urbanismo do Brasil     ;DF;Brasília           ;70317-900;06/05/2015 21:00;06/05/2015 21:00
+caues.gov.br                      ;014.702.767/0001-77;Conselho de Arquitetura e Urbanismo do Brasil     ;DF;Brasília           ;70317-900;06/07/2012 12:40;29/04/2015 13:57
+caumt.gov.br                      ;014.702.767/0001-77;Conselho de Arquitetura e Urbanismo do Brasil     ;DF;Brasília           ;70317-900;06/07/2012 12:40;29/04/2015 13:58
+caupr.gov.br                      ;014.702.767/0001-77;Conselho de Arquitetura e Urbanismo do Brasil     ;DF;Brasília           ;70317-900;06/07/2012 12:46;29/04/2015 13:59
+caurs.gov.br                      ;014.702.767/0001-77;Conselho de Arquitetura e Urbanismo do Brasil     ;DF;Brasília           ;70317-900;01/08/2012 18:51;29/04/2015 14:00
+ebserh.gov.br                     ;015.126.437/0001-43;EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH  ;DF;Brasília           ;70308-200;23/04/2013 10:50;28/05/2014 13:33
+soumaismedico.gov.br              ;015.126.437/0001-43;EMPRESA BRASILEIRA DE SERV HOSPITALARES - EBSERH  ;DF;Brasília           ;70308-200;24/09/2013 15:56;28/05/2014 13:38
+epl.gov.br                        ;015.763.423/0001-30;Empresa de Planejamento e Logística S.A - EPL     ;DF;Brasília           ;70308-200;10/10/2012 13:30;05/12/2014 22:46
+mg.gov.br                         ;016.636.540/0001-04;COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO ESTADO MG   ;MG;Belo Horizonte     ;30160-012;27/07/1995 12:00;13/08/2013 15:28
+ruralminas.gov.br                 ;017.291.105/0001-40;Fundação Rural Mineira - Ruralminas               ;MG;Belo Horizonte     ;31150-000;19/02/1998 11:49;19/02/2009 13:08
+fjp.gov.br                        ;017.464.652/0001-80;FUNDACAO JOAO PINHEIRO                            ;MG;Belo Horizonte     ;31275-150;28/06/1996 12:00;03/06/2016 18:49
+pbh.gov.br                        ;018.239.038/0001-87;Emp. Informat. Informaçao Mun. BH/SA              ;MG;Belo Horizonte     ;31230-000;21/09/1995 12:00;02/06/2015 14:57
+coren-mg.gov.br                   ;021.699.889/0001-17;CONSELHO REGIONAL DE ENFERMAGEM DE MINAS GERAIS   ;MG;Belo Horizonte     ;30160-011;22/01/2009 10:18;13/08/2013 23:00
+furnas.gov.br                     ;023.274.194/0001-19;Furnas Centrais Elétricas S.A.                    ;RJ;Rio de Janeiro     ;22281-900;05/07/1995 12:00;23/09/2015 18:49
+mmirjdh.gov.br                    ;023.657.991/0001-85;Min das Mulheres, Igualdade Racial, Juv. e Dir Hum;DF;Brasília           ;70308-200;19/04/2016 19:53;19/04/2016 19:53
+ceasa.gov.br                      ;026.461.699/0001-80;COMPANHIA NACIONAL DE ABASTECIMENTO               ;DF;Brasília           ;70390-010;01/02/2006 13:41;28/08/2015 17:09
+museuimperial.gov.br              ;026.474.056/0018-10;Museu Imperial                                    ;RJ;Petrópolis         ;25610-320;20/09/2000 12:31;12/01/2016 16:48
+ctac.gov.br                       ;026.963.660/0002-42;FUNDAÇÃO NACIONAL DE ARTES                        ;RJ;Rio de Janeiro     ;20030-120;02/09/1997 12:00;20/01/2010 00:02
+funasa.gov.br                     ;026.989.350/0001-16;FUNDAÇÃO NACIONAL DE SAÚDE                        ;DF;Brasília           ;72070-942;31/05/2000 19:14;21/08/2007 23:13
+mpu.gov.br                        ;026.989.715/0001-02;Ministerio Publico da Uniao                       ;DF;Brasilia           ;70000-000;15/10/1999 19:03;06/09/2012 22:21
+mpm.gov.br                        ;026.989.715/0004-55;MINISTERIO PUBLICO MILITAR                        ;DF;Brasília           ;70800-400;11/09/1997 12:00;21/06/2014 17:19
+prsc.gov.br                       ;026.989.715/0029-03;PROCURADORIA DA REPUBLICA EM SANTA CATARINA       ;SC;Florianopolis      ;88020-160;12/08/1996 12:00;26/08/1999 12:00
+prt16.gov.br                      ;026.989.715/0047-95;PROCURADORIA REGIONAL DO TRABALHO DA 16a REGIAO   ;MA;SAO LUIS           ;65076-090;21/01/1999 12:40;22/03/2005 23:21
+pru-pe.gov.br                     ;026.994.558/0008-08;Advocacia Geral da União                          ;PE;Recife             ;52020-060;19/05/2008 12:29;19/05/2008 12:29
+codesa.gov.br                     ;027.316.538/0001-66;COMPANHIA DOCAS DO ESPIRITO SANTO                 ;ES;Vitoria            ;29020-030;19/04/2004 13:37;31/12/2015 14:27
+niteroi-artes.gov.br              ;028.550.176/0001-36;Fundação de Arte de Niterói                       ;RJ;Niterói            ;24210-470;10/10/1997 11:00;30/05/2013 02:21
+portaldoinvestidor.gov.br         ;029.507.878/0001-08;CVM - COMISSAO DE VALORES MOBILIARIOS             ;RJ;Rio de Janeiro     ;20050-901;20/12/2006 15:46;05/04/2014 17:03
+cmrj.gov.br                       ;030.467.039/0001-84;CAMARA MUNICIPAL DO RIO DE JANEIRO                ;RJ;Rio de Janeiro     ;20031-050;15/12/1995 12:00;26/04/2000 11:55
+crfa1.gov.br                      ;032.243.313/0001-67;CONSELHO REGIONAL DE FONOAUDIOLOGIA - 1A REGIAO   ;RJ;Rio de Janeiro     ;20031-010;03/07/2009 13:35;25/09/2015 10:46
+palmares.gov.br                   ;032.901.688/0001-77;Fundação Cultural Palmares / MinC                 ;DF;Brasília           ;70308-200;24/03/2000 12:36;13/08/2008 13:29
+ceplac.gov.br                     ;033.004.300/0003-60;COMISSAO EXECUTIVA DO PLANO DA LAVOURA CACAUEIRA  ;BA;Ilhéus             ;45650-000;27/09/1997 12:00;07/03/2016 18:59
+brasilre.gov.br                   ;033.376.989/0001-91;IRB - BRASIL RESSEGUROS SA                        ;RJ;Rio de Janeiro     ;20020-901;16/06/2009 14:19;18/08/2015 16:45
+rffsa.gov.br                      ;033.613.332/0001-09;REDE FERROVIARIA FEDERAL S.A.                     ;RJ;Rio de Janeiro     ;20224-900;11/12/1996 11:00;31/07/2015 13:19
+dner-ms.gov.br                    ;033.628.777/0022-89;DNER - DEPTº NAC. DE ESTRADAS E RODAGENS          ;MS;Campo Grande       ;79110-000;25/05/1999 14:09;01/02/2006 13:54
+amazoniafundo.gov.br              ;033.657.248/0001-89;BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI;RJ;Rio de Janeiro     ;20031-917;17/03/2009 14:54;13/02/2014 23:09
+centrodememoriabndes.gov.br       ;033.657.248/0001-89;BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI;RJ;Rio de Janeiro     ;20031-917;11/12/2014 09:24;11/12/2014 09:24
+finame.gov.br                     ;033.660.564/0001-00;Agência Especial de Financiamento Industrial      ;RJ;Rio de Janeiro     ;20031-917;17/05/2006 17:29;11/11/2014 20:50
+brasiltransparente.gov.br         ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;21/08/2000 15:35;02/05/2011 12:07
+comprasnet.gov.br                 ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;26/03/1999 13:15;02/05/2011 12:07
+e.gov.br                          ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;25/07/2002 18:22;02/05/2011 12:08
+expresso.gov.br                   ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;04/11/2010 13:02;02/05/2011 12:08
+microepequenaempresa.gov.br       ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;06/11/2013 13:41;06/11/2013 13:41
+pgfn.gov.br                       ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;26/06/2007 19:28;02/05/2011 12:09
+receita.gov.br                    ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;17/04/1998 18:43;17/10/2014 18:58
+scdp.gov.br                       ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;26/10/2005 16:30;02/05/2011 12:10
+siscomex.gov.br                   ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;24/06/1998 19:32;02/05/2011 12:10
+tesourodireto.gov.br              ;033.683.111/0001-07;SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;08/05/2003 14:03;02/05/2011 12:11
+gra.gov.br                        ;033.683.111/0009-56;SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO;DF;Brasília           ;70830-010;29/08/2000 17:26;02/05/2011 12:15
+mtur.gov.br                       ;033.741.794/0001-01;Ministério do Turismo                             ;DF;Brasília           ;70716-900;16/01/2003 11:26;20/09/2014 22:07
+finep.gov.br                      ;033.749.086/0002-90;FINANCIADORA DE ESTUDOS E PROJETOS - FINEP        ;RJ;Rio de Janeiro     ;20031-170;01/01/1996 12:00;05/11/2014 18:05
+censo2000.gov.br                  ;033.787.094/0001-40;FUNDACAO INST BRAS DE GEOGRAFIA E ESTATISTICA IBGE;RJ;Rio de Janeiro     ;20031-170;26/07/2000 13:34;30/07/2011 22:00
+ibge2.gov.br                      ;033.787.094/0043-07;IBGE - Instituto Brasileiro de Geografia          ;RJ;Rio de Janeiro     ;20271-201;06/08/1999 12:21;13/09/2004 22:02
+ipeadata.gov.br                   ;033.892.175/0001-00;IPEA -INSTITUTO DE PESQUISA ECONOMICA APLICADA    ;DF;Brasília           ;70076-900;25/02/2000 18:46;20/04/2016 20:59
+correios.gov.br                   ;034.028.316/0001-03;Empresa Brasileira de Correios e Telégrafos       ;DF;Brasília           ;70002-900;16/10/1997 11:00;30/06/2016 23:19
+correios-ce.gov.br                ;034.028.316/0010-02;EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS       ;CE;Fortaleza          ;60030-970;07/02/1996 12:00;11/12/2013 13:37
+eafc-pa.gov.br                    ;034.823.237/0001-94;Escola Agrotécnica Federal de Castanhal           ;PA;castanhal          ;68740-000;22/09/1998 14:28;22/05/2007 23:53
+trt19.gov.br                      ;035.734.318/0001-80;TRT da 19a Regiao                                 ;AL;Maceió             ;57020-440;30/06/1999 14:23;27/02/2008 22:18
+fat.gov.br                        ;037.115.367/0033-48;MINISTERIO DO TRABALHO E EMPREGO                  ;DF;Brasília           ;70056-900;17/03/2010 18:09;05/02/2016 20:41
+trabalho.gov.br                   ;037.115.367/0033-48;MINISTERIO DO TRABALHO E EMPREGO                  ;DF;Brasília           ;70056-900;28/07/2000 21:30;05/02/2016 20:45
+conferenciameioambiente.gov.br    ;037.115.375/0002-98;MINISTERIO DO MEIO AMBIENTE                       ;DF;Brasília           ;70068-900;27/02/2013 19:43;11/04/2016 13:19
+meioambiente.gov.br               ;037.115.375/0002-98;MINISTERIO DO MEIO AMBIENTE                       ;DF;Brasília           ;70068-900;21/03/2000 20:30;11/04/2016 13:24
+p2r2.gov.br                       ;037.115.375/0002-98;MINISTERIO DO MEIO AMBIENTE                       ;DF;Brasília           ;70068-900;04/11/2010 13:02;11/04/2016 13:30
+redepcs.gov.br                    ;037.115.375/0002-98;MINISTERIO DO MEIO AMBIENTE                       ;DF;Brasília           ;70068-900;02/08/2012 13:55;11/04/2016 13:38
+servicoflorestal.gov.br           ;037.115.375/0002-98;MINISTERIO DO MEIO AMBIENTE                       ;DF;Brasília           ;70068-900;16/10/2006 18:00;15/02/2013 21:01
+jbrj.gov.br                       ;037.115.375/0007-00;INSTITUTO DE PESQUISAS JARDIM BOTANICO DO RIO =   ;RJ;Rio de Janeiro     ;22460-030;10/09/1997 12:00;20/08/2015 17:37
+dnc.gov.br                        ;037.115.383/0034-11;Agência Nacional do Petróleo - DNC                ;RJ;Rio de Janeiro     ;20090-004;22/08/1996 12:00;18/08/2015 11:43
+esamur.gov.br                     ;039.750.948/0001-08;Agência. San. Básico do Mun. Resende SANEAR       ;RJ;Resende            ;27523-000;23/05/2000 13:26;28/08/2006 19:15
+eafcrato.gov.br                   ;041.338.161/0001-77;Escola Agrotécnica Federal de Crato               ;CE;Crato              ;63115-500;30/05/2005 15:08;09/10/2014 23:17
+cbtu.gov.br                       ;042.357.483/0001-26;Companhia Brasileira de Trens Urbanos             ;RJ;Rio de Janeiro     ;20531-080;20/02/1998 12:15;21/02/2002 23:25
+cbtujp.gov.br                     ;042.357.483/0010-17;Companhia Brasileira de Trens Urbanos             ;PB;João Pessoa        ;58010-540;27/09/2000 17:05;18/06/2001 20:26
+xn--assistnciasocial-xqb.gov.br   ;042.422.253/0014-18;DATAPREV DF                                       ;DF;Brasília           ;70070-931;09/09/2005 13:06;09/09/2005 12:00
+sirc.gov.br                       ;042.422.253/0027-32;EMP. DE TEC. E INFORMACOES DA PREVIDENCIA SOCIAL  ;RJ;Rio de Janeiro     ;22241-090;19/09/2013 22:13;19/09/2013 22:13
+rb.gov.br                         ;042.519.488/0001-08;Fundacao Casa de Rui Barbosa                      ;RJ;Rio de Janeiro     ;22260-000;03/05/2000 12:59;27/06/2014 16:50
+crasp.gov.br                      ;043.060.078/0001-04;Conselho Regional de Administração de São Paulo   ;SP;São Paulo          ;01427-001;28/04/2008 17:41;31/08/2011 12:16
+ahrana.gov.br                     ;044.837.524/0005-30;ADIMINISTRAÇÃO DA HIDROVIA DO PARANÁ-AHRANA       ;SP;São Paulo          ;01451-000;21/10/2002 19:02;17/05/2006 16:35
+crefito-sp.gov.br                 ;049.781.479/0001-30;CONS REG DE FISIOTERAPIA E TERAP OCUP TRES REG    ;SP;São Paulo          ;01333-010;11/07/2008 16:22;11/07/2008 16:22
+trf3.gov.br                       ;059.949.362/0001-76;Tribunal Regional Federal da Terceira Regiao      ;SP;São Paulo          ;01310-200;24/08/1998 17:57;04/08/2015 21:14
+fundacentro-pe.gov.br             ;062.428.073/0006-40;FUNDACENTRO - FUNDACAO JORGE DUPRAT FIGUEIREDO DE ;PE;Recife             ;52030-190;12/12/1997 11:00;13/06/2011 13:17
+sp.gov.br                         ;062.577.929/0001-35;Cia Proc. de Dados do Estado de S Paulo - Prodesp ;SP;Taboão da Serra    ;06760-900;06/07/1995 12:00;08/06/2015 12:13
+cremesp.gov.br                    ;063.106.843/0001-97;CONSELHO REGIONAL DE MEDICINA - SP                ;SP;São Paulo          ;01301-910;17/01/2011 13:19;20/10/2013 21:04
+eafudi.gov.br                     ;073.875.502/0001-30;Escola Agrotécnica Federal de Uberlândia          ;MG;Uberlândia         ;38400-000;07/06/2001 20:57;06/06/2007 12:25
+eafi.gov.br                       ;073.920.001/0001-28;ESCOLA AGROTECNICA FEDERAL DE INCONFIDENTES       ;MG;Inconfidentes      ;37576-000;16/05/2003 13:38;08/08/2013 10:52
+eafsombrio.gov.br                 ;073.955.064/0001-10;Instituto Federal Catarinense Campus Santa Rosa   ;SC;Santa Rosa do Sul  ;88965-000;08/11/2000 16:37;11/05/2016 16:35
+ipardes.gov.br                    ;075.954.891/0001-14;INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONOMICO ;PR;Curitiba           ;82630-900;01/01/1996 12:00;08/12/2009 13:11
+telepar.gov.br                    ;076.535.764/0001-43;Oi S.A.                                           ;RJ;Rio de Janeiro     ;20230-070;03/07/1995 12:00;03/08/2015 19:10
+parana.gov.br                     ;076.545.011/0001-19;CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ ;PR;Curitiba           ;80530-010;24/08/2000 11:57;08/12/2009 15:04
+seti.gov.br                       ;077.046.951/0001-26;SECRETARIA DE ESTADO DA CIENCIA, TECNOLOGIA       ;PR;Curitiba           ;80530-230;02/04/1996 12:00;08/12/2009 13:41
+creci-sc.gov.br                   ;082.894.098/0001-32;CONSELHO REGIONAL DE CORRETORES DE IMOVEIS -=     ;SC;Florianópolis      ;88010-010;14/05/2008 16:12;02/11/2014 00:49
+crfsc.gov.br                      ;083.900.969/0001-46;Conselho Regional de Farmácia do Estado de SC     ;SC;Florianópolis      ;88020-095;09/03/2015 17:29;10/11/2015 10:39
+aeb.gov.br                        ;086.900.545/0001-70;Agência Espacial Brasileira                       ;DF;Brasília           ;70610-200;04/04/2002 14:27;19/08/2014 12:52
+eafars.gov.br                     ;091.551.986/0001-43;Escola Agrotécnica Federal de Alegrete            ;RS;Alegrete           ;97541-500;15/01/2007 18:07;19/08/2014 17:50
+crmvrs.gov.br                     ;093.009.116/0001-72;onselho Reg.de Medicina Veterinaria do RS-CRMV    ;RS;Porto Alegre       ;90035-006;28/04/2000 14:21;14/10/2008 16:07
+telebrasilia.gov.br               ;576                ;TELEBRASILIA S.A.                                 ;DF;Brasilia           ;70710-500;01/01/1996 12:00;22/07/2009 12:57
